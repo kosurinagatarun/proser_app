@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628535289874",
+    "project_id": "proser-67967",
+    "storage_bucket": "proser-67967.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628535289874:android:3edd01e2315f6cc94f10cb",
+        "android_client_info": {
+          "package_name": "com.example.proser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49C601MNYKgLDZZ2-dBGd92pA3UX_0fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

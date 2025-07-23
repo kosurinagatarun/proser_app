@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "dart.flutterSdkPath": "C:\\sdks\\flutter_windows_3.32.5-stable\\flutter"
+}
